@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: chattime
+Implementation-Version: 1.0
+Specification-Title: chattime
+Implementation-Timestamp: 2023-04-16T20:22:49+0300
+Specification-Version: 1
+
